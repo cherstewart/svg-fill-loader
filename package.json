@@ -1,6 +1,6 @@
 {
   "name": "svg-fill-loader",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Webpack loader that changes colors in SVG images",
   "main": "lib/loader.js",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kisenka/svg-fill-loader.git"
+    "url": "git+https://github.com/cherstewart/svg-fill-loader.git"
   },
-  "author": "kisenka",
+  "author": "kisenka, Cher Stewart",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kisenka/svg-fill-loader/issues"
